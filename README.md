@@ -6,6 +6,8 @@
 <a><img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/unity-000000?style=flat-square&logo=unity&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/github-999999?style=flat-square&logo=github&logoColor=white"/></a>
+"https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"
+
 ***
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=missharvest&show_icons=true&theme=radical)
 
