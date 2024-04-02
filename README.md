@@ -4,7 +4,7 @@
 ### 🛠 개발 환경
 <a><img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/unity-ffffff?style=flat-square&logo=unity&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/unity-ffffff?style=flat-square&logo=unity&logoColor=black"/></a>
 <a><img src="https://img.shields.io/badge/github-999999?style=flat-square&logo=github&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 
