@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=[Waving]&color=timeGradient&height=300&section=header&text=MissHarvest's%20Githb&fontSize=55&fontAlign=67&fontAlignY=13&fontColor=ffffff&desc=hi)
+![header](https://capsule-render.vercel.app/api?type=[Waving]&color=timeGradient&height=300&section=header&text=MissHarvest's%20Githb&fontSize=55&fontAlign=67&fontAlignY=13&fontColor=ffffff)
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
