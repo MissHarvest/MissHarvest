@@ -1,5 +1,5 @@
 <!--header-->
-![header](https://capsule-render.vercel.app/api?type=[Waving]&color=timeGradient&height=300&section=header&text=MissHarvest's%20Github&fontSize=55&fontAlign=63&fontAlignY=13&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=[Waving]&color=timeGradient&height=300&section=header&text=MissHarvest's%20Github&fontSize=55&fontColor=ffffff)
 
 ### 🛠 Tools
 ### <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
