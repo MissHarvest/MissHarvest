@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+<a><img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/></a>
 <!--
 **MissHarvest/MissHarvest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
