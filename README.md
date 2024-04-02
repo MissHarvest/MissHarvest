@@ -9,6 +9,7 @@
 <a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 
 ***
+<a><img src=http://mazassumnida.wtf/api/pastel/generate_badge?boj={username}/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=missharvest&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missharvest&layout=compact)
