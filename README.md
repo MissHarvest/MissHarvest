@@ -5,11 +5,7 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 ### 🛠 개발 환경
-### <img src="https://img.shields.io/badge/Csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
-<a><img src="https://img.shields.io/badge/Visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Unity-f6f6f6?style=flat-square&logo=unity&logoColor=black"/></a>
-<a><img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+### <img src="https://img.shields.io/badge/Csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/><img src="https://img.shields.io/badge/Visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/><img src="https://img.shields.io/badge/Unity-f6f6f6?style=flat-square&logo=unity&logoColor=black"/><img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 
 
 
